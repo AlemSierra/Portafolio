@@ -31,10 +31,10 @@ Welcome to my personal portfolio repository. This project is not only a showcase
 
 | Document |  Description |  Link |
 |------------|---------------|---------|
-| **Requirements** | Functional and non-functional requirements of the system. | [View PDF/MD](./docs/requirements.md) |
+| **Requirements** | Functional and non-functional requirements of the system. | [View PDF/MD](https://docs.google.com/document/d/1iJon5EQZFW_U2ATSFDJGz7KjUSFUEwYsn1-WAcZiVZ4/edit?usp=sharing) |
 | **Architecture** | System architecture, design patterns, and decisions. | [View Doc](./docs/architecture.md) |
 | **Diagrams** | UML, ER diagrams, and user flow diagrams. | [View Image](./docs/diagrams.png) |
-| **Mockups** | UI/UX design and high-fidelity prototypes. | [View in Figma](https://figma.com/...) |
+| **Mockups** | UI/UX design and high-fidelity prototypes. | [View in Figma](https://www.figma.com/design/KWQE90yDV2WiFrkyk1Z02A/QR---Portafolio-Ideas?m=auto&t=PXenH6nryVP4VG3N-1) |
 | **API Documentation** | Endpoints, requests, and responses description. | [View API Docs](./docs/api.md) |
 | **Database Design** | Database schema and entity-relationship model. | [View DB Design](./docs/database.md) |
 | **Installation Guide** | Instructions to install and run the project locally. | [View Guide](./docs/installation.md) |
